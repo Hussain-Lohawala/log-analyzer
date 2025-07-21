@@ -25,3 +25,6 @@ Thumbs.db
 # Ignore backup or misc artifacts
 *.old
 *.orig
+
+# Ignore docx version of document
+docs/LogAnalyzer_ProjectDocumentation.docx

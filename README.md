@@ -14,6 +14,17 @@ This tool reads a `.log` file, parses its contents, analyzes severity-level stat
 
 
 
+\## 📄 Documentation
+
+Detailed project documentation is available in the [`docs/LogAnalyzer_ProjectDocumentation.pdf`](./docs/LogAnalyzer_ProjectDocumentation.pdf) file.
+
+
+
+
+---
+
+
+
 \## 📁 Project Structure
 
 
