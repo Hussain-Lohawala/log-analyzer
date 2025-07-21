@@ -1,8 +1,27 @@
-*.exe
-*.obj
+# Ignore SQLite database and temp files
+log_stats.db
+*.tmp
+*.bak
+*.swp
+
+# Ignore log files
 *.log
-*.db
-*.dll
-*.lib
-.vscode/
+
+# Ignore build outputs (optional, if using build system)
 build/
+*.exe
+*.out
+*.obj
+*.o
+
+# Ignore system and IDE-specific files
+.DS_Store
+Thumbs.db
+.vscode/
+*.suo
+*.user
+*.VC.db
+
+# Ignore backup or misc artifacts
+*.old
+*.orig
